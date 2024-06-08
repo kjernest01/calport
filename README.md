@@ -4,7 +4,7 @@
 ### An email listener that intelligently responds to Google Calendar Invites
 
 ## Setup instructions
-1. Enable IMAP by following the below instructions\n
+1. Enable IMAP by following the below instructions
    1.1 Open Gmail in a web browser
    1.2 Select the Settings gear in the upper-right corner
    1.3 Select "See all settings."
